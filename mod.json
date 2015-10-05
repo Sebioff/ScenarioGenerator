@@ -1,0 +1,7 @@
+{
+    "BaseDir": "",
+    "EntryPoint": "NewMod.Main",
+    "IsDevelopment": true,
+    "Name": "Your First Mod",
+    "Project": "NewMod.csproj"
+}
