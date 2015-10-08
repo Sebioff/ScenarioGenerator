@@ -2,6 +2,6 @@
     "BaseDir": "",
     "EntryPoint": "NewMod.Main",
     "IsDevelopment": true,
-    "Name": "Your First Mod",
+    "Name": "Scenario Generator",
     "Project": "NewMod.csproj"
 }
