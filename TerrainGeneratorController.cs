@@ -47,7 +47,7 @@ namespace NewMod
             const int elementHeight = 20;
             const int elementHeightWithMargin = elementHeight + 2;
 
-            return new Rect(5, 15 + elementHeightWithMargin*index, 30, elementHeight);
+            return new Rect(5, 15 + elementHeightWithMargin*index, 300, elementHeight);
         }
 
         private void DoWindow(int windowId)
