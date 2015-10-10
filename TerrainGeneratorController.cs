@@ -229,7 +229,7 @@ namespace NewMod
 
                 TreeEntity fir = null;
                 foreach (var o in ScriptableSingleton<AssetManager>.Instance.decoObjects)
-                    if (o.getName().StartsWith("Fir") && o is TreeEntity) fir = o as TreeEntity;
+                    if (o.name.StartsWith("Pinetree") && o is TreeEntity) fir = o as TreeEntity;
 
                 if (fir != null)
                 {
